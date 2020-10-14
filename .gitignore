@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+test
+train
+validation
+sampleSubmission.csv
 .Python
 build/
 develop-eggs/
